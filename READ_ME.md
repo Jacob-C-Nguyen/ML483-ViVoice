@@ -9,15 +9,13 @@ Please insert your models in folders into the "Models" folder.
 
 Your file structure should look like this:
 
-Models
-    
-    F5-TTS 
-        
-        
-        F5_TTS_Base
 
-        
-        F5_TTS_Fine_Tuned
+    Models
+        F5-TTS 
+            F5_TTS_Base
+                model.pt    config.json    vocab.txt
+            F5_TTS_Fine_Tuned
+                model.pt    config.json    vocab.txt
 
 
 
