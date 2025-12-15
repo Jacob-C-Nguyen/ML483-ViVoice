@@ -5,7 +5,7 @@ Use the following command on linux to install all python libraries:
 
 
 
-Please insert your models in folders into the "Models" folder.
+Please insert your models in folders into the folder inside of the "Models" folder (F5-TTS).
 
 Your file structure should look like this:
 
