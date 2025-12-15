@@ -1,0 +1,13 @@
+torch
+torchaudio
+transformers
+accelerate
+librosa
+soundfile
+numpy
+scipy
+einops
+sentencepiece
+protobuf
+tqdm
+
