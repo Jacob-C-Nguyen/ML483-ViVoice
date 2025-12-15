@@ -1,2 +1,5 @@
-Models/*
-!Models/.gitkeep
+# Ignore everything inside Models
+Models/F5-TTS/*
+
+# But keep the README
+!Models/F5-TTS/readme.txt
